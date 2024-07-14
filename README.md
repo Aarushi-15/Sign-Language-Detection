@@ -13,7 +13,7 @@ Background subtraction and findcontours function was used to see if any gesture 
 
 Saving to directory when foreground object detected.
 
-![Screenshot (4)](https://github.com/user-attachments/assets/ded5d233-057a-4273-bdb2-9f8778320cc7)
+![Screenshot (4)](https://github.com/user-attachments/assets/930319e7-7130-4067-9512-21310115c8ef)
 
 A total of 1806 images was created for the train and 108 images for the test categorised within 3 classes.
 I used TensorFlow to build the model and use the flow_from_directory function of Keras to load our dataset.I defined a function to plot images along with their labels.
@@ -24,11 +24,14 @@ The necessary libraries were imported to design the Convolution Neural network. 
 
 ### Prediting Gestures
 
-<img width="960" alt="Screenshot 2024-01-02 092404" src="https://github.com/user-attachments/assets/6dfadaee-997b-4167-ba62-413f42a45ae0">
+<img width="524" alt="Screenshot 2024-01-02 092404" src="https://github.com/user-attachments/assets/eb371117-82c9-4cb2-8265-7758e74163df">
 
-<img width="960" alt="Screenshot 2024-01-02 092445" src="https://github.com/user-attachments/assets/2bbd52af-ea14-40bf-a7f4-351d2019bf54">
+<img width="550" alt="Screenshot 2024-01-02 092445" src="https://github.com/user-attachments/assets/516b5199-ea95-4cf2-8a1d-c5c778ba6adb">
 
-<img width="960" alt="Screenshot 2024-01-02 093143" src="https://github.com/user-attachments/assets/b3707f4c-8606-401e-8bc7-1a6079adf7d9">
+<img width="550" alt="Screenshot 2024-01-02 092445" src="https://github.com/user-attachments/assets/03d79845-f236-4186-a112-ea078daf2af9">
+
+
+
 
 
 
